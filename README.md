@@ -1,2 +1,2 @@
-# hammer-hit
-game
+# Geologist
+Geologist Project
